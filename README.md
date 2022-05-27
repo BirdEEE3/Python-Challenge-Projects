@@ -1,2 +1,2 @@
 # Python-Challenge-Projects
-Python challenges from the internet e.g. FizzBuzz,Palindrome,etc.
+Python challenges I found on the internet that i felt like doing.
